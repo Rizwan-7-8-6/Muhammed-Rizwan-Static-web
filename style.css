@@ -1,0 +1,42 @@
+.para{
+   font-size: 2em;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+.skildl-card{
+    height: 20em;
+   
+}
+.card-img{
+   
+    height: 25em;
+}
+.skill-body{
+    padding-top: 8em;
+}
+.sec-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 4em;
+    
+}
+.contact-body{
+    padding-top: 8em;
+    padding-bottom: 6em;
+}
+.form-font{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.footer-body{
+    padding-top: 4em;
+}
+.head-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.home-section{
+    padding-top: 7em;
+}
